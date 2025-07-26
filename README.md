@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm Miron, an Android developer passionate about c
 
 ## 🚀 About Me
 - 🔭 I’m currently working at OOO **МСДИС**.
-- 🌱 I’m learning Android development and studying at MSTU STANKIN.
-- 💡 I love exploring new technologies and turning ideas into reality by building apps.
 - 🎯 My goal: Build seamless and user-friendly mobile applications.
 
 ## Get in Touch
