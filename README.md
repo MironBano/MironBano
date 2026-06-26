@@ -7,5 +7,6 @@ Welcome to my GitHub profile! I'm Miron, an Android developer passionate about c
 -  My goal: Build seamless and user-friendly mobile applications.
 
 ## Connection
-https://www.linkedin.com/in/miron-android-dev/
-https://t.me/ProfiAndroid
+- https://www.linkedin.com/in/miron-android-dev/
+- https://t.me/ProfiAndroid
+- rybak.m.yu@gmail.com
